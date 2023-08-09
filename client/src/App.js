@@ -8,6 +8,10 @@ import UserBlogs from './componets/UserBlogs'
 import AddBlogs from './componets/AddBlogs'
 import BlogDetail from './componets/BlogDetail'
 
+// npm config set legacy-peer-deps true
+// npm install
+// npm start
+
 function App() {
   return <React.Fragment>
     <header>
